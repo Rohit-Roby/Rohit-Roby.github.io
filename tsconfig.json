@@ -18,7 +18,7 @@
     "paths": {
       "@/*": [
         "./*"
-      ],"dist/"
+      ]
     },
     "allowImportingTsExtensions": true,
     "noEmit": true
